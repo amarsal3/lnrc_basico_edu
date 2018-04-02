@@ -9,7 +9,7 @@ El proyecto se divide en la parte física del robot (estructura diseñada en 3D 
 
 <p align="center">
 
-<img src="license/by-sa.png" align = "center">
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" align = "center">
 
 </p>
 
