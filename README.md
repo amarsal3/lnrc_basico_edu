@@ -5,10 +5,16 @@ Básicamente se trata de un robot educativo con el que empezar a trabajar los co
 
 El proyecto se divide en la parte física del robot (estructura diseñada en 3D y placa de control) y la capa de programación, que proporciona los bloques necesarios para dar instrucciones al robot de forma sencilla.
 
-Licencia
+## Licencia
+
+<p align="center">
+
+<img src="license/by-sa.png" align = "center">
+
+</p>
 
 
 
-Todos estos productos están liberados mediante Creative Commons Attribution-ShareAlike 4.0 International License.
+Todos estos productos están liberados mediante [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).  
 
-All these products are released under Creative Commons Attribution-ShareAlike 4.0 International License.
+_All these products are released under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)._
