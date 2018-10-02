@@ -141,7 +141,7 @@
 <hole x="70" y="46" drill="3.2"/>
 <hole x="70" y="3" drill="3.2"/>
 <hole x="3" y="3" drill="3.2"/>
-<text x="38.0492" y="1.9304" size="2.1844" layer="25">Targalot 1.0</text>
+<text x="37.6936" y="2.286" size="2.1844" layer="25">Ligabot_basico</text>
 </plain>
 <libraries>
 <library name="jet-lib">
