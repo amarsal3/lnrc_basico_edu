@@ -5,7 +5,7 @@ Básicamente se trata de un robot educativo con el que empezar a trabajar los co
 
 El proyecto se divide en la parte física del robot (estructura diseñada en 3D y placa de control) y la capa de programación, que proporciona los bloques necesarios para dar instrucciones al robot de forma sencilla.
 
-Puedes consultar detalles del robot, vídeos y mucha más información en el sitio de la liga dedicador a este proyecto http://lnrc.es/contenido.jsp?idContenido=robotmania.
+Puedes consultar detalles del robot, vídeos y mucha más información en el sitio de la liga dedicado a este proyecto http://lnrc.es/contenido.jsp?idContenido=robotmania.
 
 ## Licencia
 
